@@ -7,3 +7,5 @@ Proyecto de practica utilizando
 -React router dom
 -Axios
 -Bootstrap
+
+Sirve para crear, listar, editar y borrar proyectos y notas dentro de los mismos
